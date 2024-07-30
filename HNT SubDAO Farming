@@ -1,0 +1,68 @@
+- Author(s): <!-- @theochapman1 -->
+- Start Date: <!-- 2024-07-30 -->
+- Category: <!-- economic -->
+- Original HIP PR: <!-- leave this empty; maintainer will fill in ID of this pull request -->
+- Tracking Issue: <!-- leave this empty; maintainer will create a discussion issue -->
+
+## Summary
+Given Helium’s existing SubDAO structure, I believe there’s a significant opportunity to enable a SubDAO farming model to financially benefit HNT holders and its participants. 
+Specifically, integrating SubDAO farming yields with HNT could enable users to select from various SubDAO tokens — e.g. MOBILE, IOT, ENERGY, etc. — to receive as their yield... 
+this would marry and create a way to merge DePIN x DeFi. This adaptation would align with Helium's vision of becoming the network of networks in DePIN but also enhance the economic
+utility and value of HNT as a dynamic, yield-bearing, and stronger programmatic treasury asset.
+
+## Motivation
+
+- Why are we doing this? To distribute the ownership of each SubDAO as widely as possible.
+To ensure that SubDAO creation drives value to the Helium network in the form of:
+- HNT demand
+- Governance participation
+- To incentivize talented individuals to work to make each SubDAO a success.
+- What use cases does it support? DeFi 
+- What problems does it solve? Idle, unproductive state of HNT and lack of token holder engagement.
+- What is the expected outcome? Distribute SubDAO tokens widely via token farming initiatives.
+
+## Stakeholders
+
+- Who is affected by this HIP? Token Holders
+- How are we soliciting feedback on this HIP from these stakeholders? Feedback on X
+
+## Drawbacks
+
+- Why should we _not_ do this? HNT was intended for DePIN, not DeFi
+- What problems could occur if we do this? Dilution of focus
+
+## Rationale and Alternatives
+
+- Why is this design the best in the space of possible designs?
+Existing SubDAO model makes it relatively simple to integrate. 
+- What other designs have been considered and what is the rationale for not choosing them?
+Vanilla HNT Staking could be considered as an alternative, but given HNT's limited supply, it would be more strategic to use these resources to incentivize growth 
+in DePIN and use SubDAOs for distribution to reward HNT holders.
+
+## Unresolved Questions
+
+- What parts of the design do you expect to resolve through the HIP process before this gets merged? The technical specifications, economic impact, community consensus
+- What parts of the design do you expect to resolve through the implementation of this feature? Functionality and UI, performance optimisation, security enhancements, 
+- What related issues do you consider out of scope for this HIP that could be addressed in the
+  future independently of the solution that comes out of this HIP? The % of SubDAO token issuance that is allocated to the HNT delegator per year.
+
+## Deployment Impact
+
+Describe how this design will be deployed and any potential impact it may have on current users of
+this project.
+
+- How will current users be impacted?
+- How will existing documentation/knowledge base need to be supported? Any content to change at
+  <http://docs.helium.com>?
+- Is this backwards compatible? Can this HIP be undone?
+  - If not, what is the procedure to migrate?
+
+## Success Metrics
+
+What metrics can be used to measure the success of this design? Are any new ETL reports needed to
+measure the success?
+
+- What should we measure to prove a performance increase?
+- What should we measure to prove an improvement in stability?
+- What should we measure to prove a reduction in complexity?
+- What should we measure to prove an acceptance of this by its users?
